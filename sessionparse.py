@@ -38,7 +38,7 @@ def cli_parser():
         parser.print_help()
         sys.exit()
 
-    if args.d is None:
+    if args.directory is None:
         print "[*] Error: -d/--directory option is required to point to\
             session.tsv files!"
         print "[*] Error: Please re-run and provide this option!"
