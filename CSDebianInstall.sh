@@ -9,4 +9,4 @@ apt-get install software-properties-common
 apt-key adv --keyserver keyserver.ubuntu.com --recv-keys C2518248EEA14886
 add-apt-repository "deb http://ppa.launchpad.net/webupd8team/java/ubuntu xenial main"
 apt-get update
-apt-get install oracle-java8-installe
+apt-get install oracle-java8-installer
